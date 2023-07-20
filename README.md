@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harigovind511](https://github.com/harigovind511)
 
-- 💬 Ask me about **AI, ML, Tensorflow, Deep Learning, React.js, Next.js, Python, C#, ASP.Net, Cloud Computing, Containization, Docker, SQL, NoSQL and anything in between.**
+- 💬 Ask me about **AI, ML, System Architecture, Large Language Models, Deep Learning, React.js, Next.js, Python, C#, ASP.Net, Cloud Computing, Containization, Docker, SQL, NoSQL and anything in between.**
 
 - 📫 How to reach me **harigovind2102@gmail.com**
 
